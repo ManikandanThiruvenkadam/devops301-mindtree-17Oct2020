@@ -3,3 +3,11 @@
 # Please adapt and uncomment the following lines:
 #	name = Ubuntu
 #	email = mtadmindev16@mtadmindev16.k2mfc5uurrqehnfxzan1z5aq2h.cx.internal.cloudapp.net
+[user]
+	name = manikandan-thiruvenkadam
+	email = manikandan.thiruvenkadam@mindtree.com
+	username = manikandan-thiruvenkadam
+[core]
+	editor = vi
+[push]
+	default = matching
